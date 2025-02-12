@@ -1,1008 +1,143 @@
-It seems like you have provided a list of color values along with their names. If you want to extract just the color names from this list, here they are:
+Red
 
-1. Red
-2. Green
-3. Blue
-4. White
-5. Orange
-6. Yellow
-7. Lime
-8. Blue
-9. Purple
-10. Maroon
-11. Gold
-12. Pink
-13. Turquoise
-14. Black
-15. Gray
-16. Olive
-17. Violet
-18. Dark Green
-19. Dark Blue
-20. Silver
-21. Light Yellow
-22. Light Cyan
-23. Brown
-24. Lavender
-25. Salmon
-26. Indigo
-27. Coral
-28. Light Green
-29. Sky Blue
-30. Beige
-31. Pale Green
-32. Khaki
-33. Lavender
-34. Moccasin
-35. Peach Puff
-36. Peru
-37. Wheat
-38. Papaya Whip
-39. Hot Pink
-40. Deep Pink
-41. Light Salmon
-42. Light Coral
-43. Dark Salmon
-44. Rosy Brown
-45. Misty Rose
-46. Seashell
-47. White Smoke
-48. Slate Gray
-49. Powder Blue
-50. Alice Blue
-51. Azure
-52. Honeydew
-53. Floral White
-54. Old Lace
-55. Lemon Chiffon
-56. Light Goldenrod Yellow
-57. Ivory
-58. Cornsilk
-59. Seashell
-60. White Smoke
-61. Slate Gray
-62. Light Gray
-63. Light Slate Blue
-64. Medium Turquoise
-65. Aquamarine
-66. Chartreuse
-67. Green Yellow
-68. Light Pink
-69. Light Salmon
-70. Peach Puff
-71. Peru
-72. Wheat
-73. Papaya Whip
-74. Hot Pink
-75. Deep Pink
-76. Light Salmon
-77. Light Coral
-78. Dark Salmon
-79. Rosy Brown
-80. Misty Rose
-81. Seashell
-82. White Smoke
-83. Slate Gray
-84. Powder Blue
-85. Alice Blue
-86. Azure
-87. Honeydew
-88. Floral White
-89. Old Lace
-90. Lemon Chiffon
-91. Light Goldenrod Yellow
-92. Ivory
-93. Cornsilk
-94. Seashell
-95. White Smoke
-96. Slate Gray
-97. Light Gray
-98. Light Slate Blue
-99. Medium Turquoise
-100. Aquamarine
-101. Chartreuse
-102. Green Yellow
-103. Light Pink
-104. Light Salmon
-105. Peach Puff
-106. Peru
-107. Wheat
-108. Papaya Whip
-109. Hot Pink
-110. Deep Pink
-111. Light Salmon
-112. Light Coral
-113. Dark Salmon
-114. Rosy Brown
-115. Misty Rose
-116. Seashell
-117. White Smoke
-118. Slate Gray
-119. Powder Blue
-120. Alice Blue
-121. Azure
-122. Honeydew
-123. Floral White
-124. Old Lace
-125. Lemon Chiffon
-126. Light Goldenrod Yellow
-127. Ivory
-128. Cornsilk
-129. Seashell
-130. White Smoke
-131. Slate Gray
-132. Light Gray
-133. Light Slate Blue
-134. Medium Turquoise
-135. Aquamarine
-136. Chartreuse
-137. Green Yellow
-138. Light Pink
-139. Light Salmon
-140. Peach Puff
-141. Peru
-142. Wheat
-143. Papaya Whip
-144. Hot Pink
-145. Deep Pink
-146. Light Salmon
-147. Light Coral
-148. Dark Salmon
-149. Rosy Brown
-150. Misty Rose
-151. Seashell
-152. White Smoke
-153. Slate Gray
-154. Powder Blue
-155. Alice Blue
-156. Azure
-157. Honeydew
-158. Floral White
-159. Old Lace
-160. Lemon Chiffon
-161. Light Goldenrod Yellow
-162. Ivory
-163. Cornsilk
-164. Seashell
-165. White Smoke
-166. Slate Gray
-167. Light Gray
-168. Light Slate Blue
-169. Medium Turquoise
-170. Aquamarine
-171. Chartreuse
-172. Green Yellow
-173. Light Pink
-174. Light Salmon
-175. Peach Puff
-176. Peru
-177. Wheat
-178. Papaya Whip
-179. Hot Pink
-180. Deep Pink
-181. Light Salmon
-182. Light Coral
-183. Dark Salmon
-184. Rosy Brown
-185. Misty Rose
-186. Seashell
-187. White Smoke
-188. Slate Gray
-189. Powder Blue
-190. Alice Blue
-191. Azure
-192. Honeydew
-193. Floral White
-194. Old Lace
-195. Lemon Chiffon
-196. Light Goldenrod Yellow
-197. Ivory
-198. Cornsilk
-199. Seashell
-200. White Smoke
-201. Slate Gray
-202. Light Gray
-203. Light Slate Blue
-204. Medium Turquoise
-205. Aquamarine
-206. Chartreuse
-207. Green Yellow
-208. Light Pink
-209. Light Salmon
-210. Peach Puff
-211. Peru
-212. Wheat
-213. Papaya Whip
-214. Hot Pink
-215. Deep Pink
-216. Light Salmon
-217. Light Coral
-218. Dark Salmon
-219. Rosy Brown
-220. Misty Rose
-221. Seashell
-222. White Smoke
-223. Slate Gray
-224. Powder Blue
-225. Alice Blue
-226. Azure
-227. Honeydew
-228. Floral White
-229. Old Lace
-230. Lemon Chiffon
-231. Light Goldenrod Yellow
-232. Ivory
-233. Cornsilk
-234. Seashell
-235. White Smoke
-236. Slate Gray
-237. Light Gray
-238. Light Slate Blue
-239. Medium Turquoise
-240. Aquamarine
-241. Chartreuse
-242. Green Yellow
-243. Light Pink
-244. Light Salmon
-245. Peach Puff
-246. Peru
-247. Wheat
-248. Papaya Whip
-249. Hot Pink
-250. Deep Pink
-251. Light Salmon
-252. Light Coral
-253. Dark Salmon
-254. Rosy Brown
-255. Misty Rose
-256. Seashell
-257. White Smoke
-258. Slate Gray
-259. Powder Blue
-260. Alice Blue
-261. Azure
-262. Honeydew
-263. Floral White
-264. Old Lace
-265. Lemon Chiffon
-266. Light Goldenrod Yellow
-267. Ivory
-268. Cornsilk
-269. Seashell
-270. White Smoke
-271. Slate Gray
-272. Light Gray
-273. Light Slate Blue
-274. Medium Turquoise
-275. Aquamarine
-276. Chartreuse
-277. Green Yellow
-278. Light Pink
-279. Light Salmon
-280. Peach Puff
-281. Peru
-282. Wheat
-283. Papaya Whip
-284. Hot Pink
-285. Deep Pink
-286. Light Salmon
-287. Light Coral
-288. Dark Salmon
-289. Ros
+Green
 
-y Brown
-290. Misty Rose
-291. Seashell
-292. White Smoke
-293. Slate Gray
-294. Powder Blue
-295. Alice Blue
-296. Azure
-297. Honeydew
-298. Floral White
-299. Old Lace
-300. Lemon Chiffon
-301. Light Goldenrod Yellow
-302. Ivory
-303. Cornsilk
-304. Seashell
-305. White Smoke
-306. Slate Gray
-307. Light Gray
-308. Light Slate Blue
-309. Medium Turquoise
-310. Aquamarine
-311. Chartreuse
-312. Green Yellow
-313. Light Pink
-314. Light Salmon
-315. Peach Puff
-316. Peru
-317. Wheat
-318. Papaya Whip
-319. Hot Pink
-320. Deep Pink
-321. Light Salmon
-322. Light Coral
-323. Dark Salmon
-324. Rosy Brown
-325. Misty Rose
-326. Seashell
-327. White Smoke
-328. Slate Gray
-329. Powder Blue
-330. Alice Blue
-331. Azure
-332. Honeydew
-333. Floral White
-334. Old Lace
-335. Lemon Chiffon
-336. Light Goldenrod Yellow
-337. Ivory
-338. Cornsilk
-339. Seashell
-340. White Smoke
-341. Slate Gray
-342. Light Gray
-343. Light Slate Blue
-344. Medium Turquoise
-345. Aquamarine
-346. Chartreuse
-347. Green Yellow
-348. Light Pink
-349. Light Salmon
-350. Peach Puff
-351. Peru
-352. Wheat
-353. Papaya Whip
-354. Hot Pink
-355. Deep Pink
-356. Light Salmon
-357. Light Coral
-358. Dark Salmon
-359. Rosy Brown
-360. Misty Rose
-361. Seashell
-362. White Smoke
-363. Slate Gray
-364. Powder Blue
-365. Alice Blue
-366. Azure
-367. Honeydew
-368. Floral White
-369. Old Lace
-370. Lemon Chiffon
-371. Light Goldenrod Yellow
-372. Ivory
-373. Cornsilk
-374. Seashell
-375. White Smoke
-376. Slate Gray
-377. Light Gray
-378. Light Slate Blue
-379. Medium Turquoise
-380. Aquamarine
-381. Chartreuse
-382. Green Yellow
-383. Light Pink
-384. Light Salmon
-385. Peach Puff
-386. Peru
-387. Wheat
-388. Papaya Whip
-389. Hot Pink
-390. Deep Pink
-391. Light Salmon
-392. Light Coral
-393. Dark Salmon
-394. Rosy Brown
-395. Misty Rose
-396. Seashell
-397. White Smoke
-398. Slate Gray
-399. Powder Blue
-400. Alice Blue
-401. Azure
-402. Honeydew
-403. Floral White
-404. Old Lace
-405. Lemon Chiffon
-406. Light Goldenrod Yellow
-407. Ivory
-408. Cornsilk
-409. Seashell
-410. White Smoke
-411. Slate Gray
-412. Light Gray
-413. Light Slate Blue
-414. Medium Turquoise
-415. Aquamarine
-416. Chartreuse
-417. Green Yellow
-418. Light Pink
-419. Light Salmon
-420. Peach Puff
-421. Peru
-422. Wheat
-423. Papaya Whip
-424. Hot Pink
-425. Deep Pink
-426. Light Salmon
-427. Light Coral
-428. Dark Salmon
-429. Rosy Brown
-430. Misty Rose
-431. Seashell
-432. White Smoke
-433. Slate Gray
-434. Powder Blue
-435. Alice Blue
-436. Azure
-437. Honeydew
-438. Floral White
-439. Old Lace
-440. Lemon Chiffon
-441. Light Goldenrod Yellow
-442. Ivory
-443. Cornsilk
-444. Seashell
-445. White Smoke
-446. Slate Gray
-447. Light Gray
-448. Light Slate Blue
-449. Medium Turquoise
-450. Aquamarine
-451. Chartreuse
-452. Green Yellow
-453. Light Pink
-454. Light Salmon
-455. Peach Puff
-456. Peru
-457. Wheat
-458. Papaya Whip
-459. Hot Pink
-460. Deep Pink
-461. Light Salmon
-462. Light Coral
-463. Dark Salmon
-464. Rosy Brown
-465. Misty Rose
-466. Seashell
-467. White Smoke
-468. Slate Gray
-469. Powder Blue
-470. Alice Blue
-471. Azure
-472. Honeydew
-473. Floral White
-474. Old Lace
-475. Lemon Chiffon
-476. Light Goldenrod Yellow
-477. Ivory
-478. Cornsilk
-479. Seashell
-480. White Smoke
-481. Slate Gray
-482. Light Gray
-483. Light Slate Blue
-484. Medium Turquoise
-485. Aquamarine
-486. Chartreuse
-487. Green Yellow
-488. Light Pink
-489. Light Salmon
-490. Peach Puff
-491. Peru
-492. Wheat
-493. Papaya Whip
-494. Hot Pink
-495. Deep Pink
-496. Light Salmon
-497. Light Coral
-498. Dark Salmon
-499. Rosy Brown
-500. Misty Rose
-501. Seashell
-502. White Smoke
-503. Slate Gray
-504. Powder Blue
-505. Alice Blue
-506. Azure
-507. Honeydew
-508. Floral White
-509. Old Lace
-510. Lemon Chiffon
-511. Light Goldenrod Yellow
-512. Ivory
-513. Cornsilk
-514. Seashell
-515. White Smoke
-516. Slate Gray
-517. Light Gray
-518. Light Slate Blue
-519. Medium Turquoise
-520. Aquamarine
-521. Chartreuse
-522. Green Yellow
-523. Light Pink
-524. Light Salmon
-525. Peach Puff
-526. Peru
-527. Wheat
-528. Papaya Whip
-529. Hot Pink
-530. Deep Pink
-531. Light Salmon
-532. Light Coral
-533. Dark Salmon
-534. Rosy Brown
-535. Misty Rose
-536. Seashell
-537. White Smoke
-538. Slate Gray
-539. Powder Blue
-540. Alice Blue
-541. Azure
-542. Honeydew
-543. Floral White
-544. Old Lace
-545. Lemon Chiffon
-546. Light Goldenrod Yellow
-547. Ivory
-548. Cornsilk
-549. Seashell
-550. White Smoke
-551. Slate Gray
-552. Light Gray
-553. Light Slate Blue
-554. Medium Turquoise
-555. Aquamarine
-556. Chartreuse
-557. Green Yellow
-558. Light Pink
-559. Light Salmon
-560. Peach Puff
-561. Peru
-562. Wheat
-563. Papaya Whip
-564. Hot Pink
-565. Deep Pink
-566. Light Salmon
-567. Light Coral
-568. Dark Salmon
-569. Rosy Brown
-570. Misty Rose
-571. Seashell
-572. White Smoke
-573. Slate Gray
-574. Powder Blue
-575. Alice Blue
-576. Azure
-577. Honeydew
-578. Floral
+Blue
 
- White
-579. Old Lace
-580. Lemon Chiffon
-581. Light Goldenrod Yellow
-582. Ivory
-583. Cornsilk
-584. Seashell
-585. White Smoke
-586. Slate Gray
-587. Light Gray
-588. Light Slate Blue
-589. Medium Turquoise
-590. Aquamarine
-591. Chartreuse
-592. Green Yellow
-593. Light Pink
-594. Light Salmon
-595. Peach Puff
-596. Peru
-597. Wheat
-598. Papaya Whip
-599. Hot Pink
-600. Deep Pink
-601. Light Salmon
-602. Light Coral
-603. Dark Salmon
-604. Rosy Brown
-605. Misty Rose
-606. Seashell
-607. White Smoke
-608. Slate Gray
-609. Powder Blue
-610. Alice Blue
-611. Azure
-612. Honeydew
-613. Floral White
-614. Old Lace
-615. Lemon Chiffon
-616. Light Goldenrod Yellow
-617. Ivory
-618. Cornsilk
-619. Seashell
-620. White Smoke
-621. Slate Gray
-622. Light Gray
-623. Light Slate Blue
-624. Medium Turquoise
-625. Aquamarine
-626. Chartreuse
-627. Green Yellow
-628. Light Pink
-629. Light Salmon
-630. Peach Puff
-631. Peru
-632. Wheat
-633. Papaya Whip
-634. Hot Pink
-635. Deep Pink
-636. Light Salmon
-637. Light Coral
-638. Dark Salmon
-639. Rosy Brown
-640. Misty Rose
-641. Seashell
-642. White Smoke
-643. Slate Gray
-644. Powder Blue
-645. Alice Blue
-646. Azure
-647. Honeydew
-648. Floral White
-649. Old Lace
-650. Lemon Chiffon
-651. Light Goldenrod Yellow
-652. Ivory
-653. Cornsilk
-654. Seashell
-655. White Smoke
-656. Slate Gray
-657. Light Gray
-658. Light Slate Blue
-659. Medium Turquoise
-660. Aquamarine
-661. Chartreuse
-662. Green Yellow
-663. Light Pink
-664. Light Salmon
-665. Peach Puff
-666. Peru
-667. Wheat
-668. Papaya Whip
-669. Hot Pink
-670. Deep Pink
-671. Light Salmon
-672. Light Coral
-673. Dark Salmon
-674. Rosy Brown
-675. Misty Rose
-676. Seashell
-677. White Smoke
-678. Slate Gray
-679. Powder Blue
-680. Alice Blue
-681. Azure
-682. Honeydew
-683. Floral White
-684. Old Lace
-685. Lemon Chiffon
-686. Light Goldenrod Yellow
-687. Ivory
-688. Cornsilk
-689. Seashell
-690. White Smoke
-691. Slate Gray
-692. Light Gray
-693. Light Slate Blue
-694. Medium Turquoise
-695. Aquamarine
-696. Chartreuse
-697. Green Yellow
-698. Light Pink
-699. Light Salmon
-700. Peach Puff
-701. Peru
-702. Wheat
-703. Papaya Whip
-704. Hot Pink
-705. Deep Pink
-706. Light Salmon
-707. Light Coral
-708. Dark Salmon
-709. Rosy Brown
-710. Misty Rose
-711. Seashell
-712. White Smoke
-713. Slate Gray
-714. Powder Blue
-715. Alice Blue
-716. Azure
-717. Honeydew
-718. Floral White
-719. Old Lace
-720. Lemon Chiffon
-721. Light Goldenrod Yellow
-722. Ivory
-723. Cornsilk
-724. Seashell
-725. White Smoke
-726. Slate Gray
-727. Light Gray
-728. Light Slate Blue
-729. Medium Turquoise
-730. Aquamarine
-731. Chartreuse
-732. Green Yellow
-733. Light Pink
-734. Light Salmon
-735. Peach Puff
-736. Peru
-737. Wheat
-738. Papaya Whip
-739. Hot Pink
-740. Deep Pink
-741. Light Salmon
-742. Light Coral
-743. Dark Salmon
-744. Rosy Brown
-745. Misty Rose
-746. Seashell
-747. White Smoke
-748. Slate Gray
-749. Powder Blue
-750. Alice Blue
-751. Azure
-752. Honeydew
-753. Floral White
-754. Old Lace
-755. Lemon Chiffon
-756. Light Goldenrod Yellow
-757. Ivory
-758. Cornsilk
-759. Seashell
-760. White Smoke
-761. Slate Gray
-762. Light Gray
-763. Light Slate Blue
-764. Medium Turquoise
-765. Aquamarine
-766. Chartreuse
-767. Green Yellow
-768. Light Pink
-769. Light Salmon
-770. Peach Puff
-771. Peru
-772. Wheat
-773. Papaya Whip
-774. Hot Pink
-775. Deep Pink
-776. Light Salmon
-777. Light Coral
-778. Dark Salmon
-779. Rosy Brown
-780. Misty Rose
-781. Seashell
-782. White Smoke
-783. Slate Gray
-784. Powder Blue
-785. Alice Blue
-786. Azure
-787. Honeydew
-788. Floral White
-789. Old Lace
-790. Lemon Chiffon
-791. Light Goldenrod Yellow
-792. Ivory
-793. Cornsilk
-794. Seashell
-795. White Smoke
-796. Slate Gray
-797. Light Gray
-798. Light Slate Blue
-799. Medium Turquoise
-800. Aquamarine
-801. Chartreuse
-802. Green Yellow
+White
 
+Orange
 
-803. Light Pink
-804. Light Salmon
-805. Peach Puff
-806. Peru
-807. Wheat
-808. Papaya Whip
-809. Hot Pink
-810. Deep Pink
-811. Light Salmon
-812. Light Coral
-813. Dark Salmon
-814. Rosy Brown
-815. Misty Rose
-816. Seashell
-817. White Smoke
-818. Slate Gray
-819. Powder Blue
-820. Alice Blue
-821. Azure
-822. Honeydew
-823. Floral White
-824. Old Lace
-825. Lemon Chiffon
-826. Light Goldenrod Yellow
-827. Ivory
-828. Cornsilk
-829. Seashell
-830. White Smoke
-831. Slate Gray
-832. Light Gray
-833. Light Slate Blue
-834. Medium Turquoise
-835. Aquamarine
-836. Chartreuse
-837. Green Yellow
-838. Light Pink
-839. Light Salmon
-840. Peach Puff
-841. Peru
-842. Wheat
-843. Papaya Whip
-844. Hot Pink
-845. Deep Pink
-846. Light Salmon
-847. Light Coral
-848. Dark Salmon
-849. Rosy Brown
-850. Misty Rose
-851. Seashell
-852. White Smoke
-853. Slate Gray
-854. Powder Blue
-855. Alice Blue
-856. Azure
-857. Honeydew
-858. Floral White
-859. Old Lace
-860. Lemon Chiffon
-861. Light Goldenrod Yellow
-862. Ivory
-863. Cornsilk
-864. Seashell
-865. White Smoke
-866. Slate Gray
-867. Light Gray
-868. Light Slate Blue
-869. Medium Turquoise
-870. Aquamarine
-871. Chartreuse
-872. Green Yellow
-873. Light Pink
-874. Light Salmon
-875. Peach Puff
-876. Peru
-877. Wheat
-878. Papaya Whip
-879. Hot Pink
-880. Deep Pink
-881. Light Salmon
-882. Light Coral
-883. Dark Salmon
-884. Rosy Brown
-885. Misty Rose
-886. Seashell
-887. White Smoke
-888. Slate Gray
-889. Powder Blue
-890. Alice Blue
-891. Azure
-892. Honeydew
-893. Floral White
-894. Old Lace
-895. Lemon Chiffon
-896. Light Goldenrod Yellow
-897. Ivory
-898. Cornsilk
-899. Seashell
-900. White Smoke
-901. Slate Gray
-902. Light Gray
-903. Light Slate Blue
-904. Medium Turquoise
-905. Aquamarine
-906. Chartreuse
-907. Green Yellow
-908. Light Pink
-909. Light Salmon
-910. Peach Puff
-911. Peru
-912. Wheat
-913. Papaya Whip
-914. Hot Pink
-915. Deep Pink
-916. Light Salmon
-917. Light Coral
-918. Dark Salmon
-919. Rosy Brown
-920. Misty Rose
-921. Seashell
-922. White Smoke
-923. Slate Gray
-924. Powder Blue
-925. Alice Blue
-926. Azure
-927. Honeydew
-928. Floral White
-929. Old Lace
-930. Lemon Chiffon
-931. Light Goldenrod Yellow
-932. Ivory
-933. Cornsilk
-934. Seashell
-935. White Smoke
-936. Slate Gray
-937. Light Gray
-938. Light Slate Blue
-939. Medium Turquoise
-940. Aquamarine
-941. Chartreuse
-942. Green Yellow
-943. Light Pink
-944. Light Salmon
-945. Peach Puff
-946. Peru
-947. Wheat
-948. Papaya Whip
-949. Hot Pink
-950. Deep Pink
-951. Light Salmon
-952. Light Coral
-953. Dark Salmon
-954. Rosy Brown
-955. Misty Rose
-956. Seashell
-957. White Smoke
-958. Slate Gray
-959. Powder Blue
-960. Alice Blue
-961. Azure
-962. Honeydew
-963. Floral White
-964. Old Lace
-965. Lemon Chiffon
-966. Light Goldenrod Yellow
-967. Ivory
-968. Cornsilk
-969. Seashell
-970. White Smoke
-971. Slate Gray
-972. Light Gray
-973. Light Slate Blue
-974. Medium Turquoise
-975. Aquamarine
-976. Chartreuse
-977. Green Yellow
-978. Light Pink
-979. Light Salmon
-980. Peach Puff
-981. Peru
-982. Wheat
-983. Papaya Whip
-984. Hot Pink
-985. Deep Pink
-986. Light Salmon
-987. Light Coral
-988. Dark Salmon
-989. Rosy Brown
-990. Misty Rose
-991. Seashell
-992. White Smoke
-993. Slate Gray
-994. Powder Blue
-995. Alice Blue
-996. Azure
-997. Honeydew
-998. Floral White
-999. Old Lace
-1000. Lemon Chiffon
+Yellow
+
+Lime
+
+Purple
+
+Maroon
+
+Gold
+
+Pink
+
+Turquoise
+
+Black
+
+Gray
+
+Olive
+
+Violet
+
+Dark Green
+
+Dark Blue
+
+Silver
+
+Light Yellow
+
+Light Cyan
+
+Brown
+
+Lavender
+
+Salmon
+
+Indigo
+
+Coral
+
+Light Green
+
+Sky Blue
+
+Beige
+
+Pale Green
+
+Khaki
+
+Moccasin
+
+Peach Puff
+
+Peru
+
+Wheat
+
+Papaya Whip
+
+Hot Pink
+
+Deep Pink
+
+Light Salmon
+
+Light Coral
+
+Dark Salmon
+
+Rosy Brown
+
+Misty Rose
+
+Seashell
+
+White Smoke
+
+Slate Gray
+
+Powder Blue
+
+Alice Blue
+
+Azure
+
+Honeydew
+
+Floral White
+
+Old Lace
+
+Lemon Chiffon
+
+Light Goldenrod Yellow
+
+Ivory
+
+Cornsilk
+
+Light Gray
+
+Light Slate Blue
+
+Medium Turquoise
+
+Aquamarine
+
+Chartreuse
+
+Green Yellow
+
+Light Pink
+
+Red-Orange
+
+Tomato
+
+Dark Orange
+
+Lavender Blush
+
+Navy
+
+Teal
+
+Dark Cyan
+
+Cyan
+
+Midnight Blue
